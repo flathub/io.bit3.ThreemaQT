@@ -31,6 +31,6 @@ modules:
   sources:
   - type: git
     url: https://gitlab.com/bit3/threemaqt.git
-    tag: v1.0.3
-    commit: 9ecc9e773ca3b88fa4f5115ed80d3d2c6b96d6ad
+    tag: v1.0.4
+    commit: 4fcb8f3dad9d1b446ea57117a1bd5e8305ff4513
 
